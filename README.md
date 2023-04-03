@@ -18,5 +18,5 @@ Thiết kế và đẹp cho trang Web
 1. fontawesome:https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
 
 ## Kết quả:
-1. Link git:
-2. Link sản phẩm:
+1. Link git: https://github.com/lthnhung99/Comestic_Management
+2. Link sản phẩm: https://lthnhung99.github.io/Comestic_Management/
