@@ -16,3 +16,7 @@ Thiết kế và đẹp cho trang Web
 + OOP (Lập trình hướng đối tượng)
 ## Các thư viện tham khảo:
 1. fontawesome:https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+
+## Kết quả:
+1. Link git:
+2. Link sản phẩm:
