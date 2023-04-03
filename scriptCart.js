@@ -20,7 +20,7 @@ function addcart(productPhoto,productName,productPrice,productRating) {
             return
         }
     }
-    let trcontent = ' <tr><td style="display: flex; align-items: center;"><img style="width: 70px;" src="'+productPhoto+'" alt=""><span class="title">'+productName+'</span></td><td>'+productPrice+'</td><td><input style="width: 30px; outline: none" type="number" value="1" min="1"></td><td style="cursor: pointer;"><span class="cart-delete">Xóa</span></td></tr>'
+    let trcontent = ` <tr><td style="display: flex; align-items: center;"><img style="width: 70px;" src="${productPhoto}" alt=""><span class="title">${productName}</span></td><td>${productPrice}</td><td><input style="width: 30px; outline: none" type="number" value="1" min="1"></td><td style="cursor: pointer;"><span class="cart-delete">Xóa</span></td></tr>`
     addtr.innerHTML = trcontent
     let cartTable = document.querySelector("tbody")
     cartTable.append(addtr)
